@@ -1,0 +1,17 @@
+.gif-div {
+    float: left;
+    margin-left: 20px;
+}
+
+#buttons {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.musician-button {
+    margin: 5px;
+}
+
+#add-musician-button {
+    margin-left: 5px;
+}
